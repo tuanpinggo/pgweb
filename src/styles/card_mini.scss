@@ -1,0 +1,13 @@
+.card-mini-hr {
+    margin: 8px 0px;
+    flex-shrink: 0;
+    border-width: 0px 0px thin;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.08);
+}
+.card-mini-btn-pay:hover {
+    background-color: rgb(152, 18, 65);
+}
+.card-mini-btn-update:hover {
+    background-color: rgb(20, 105, 147);
+}
